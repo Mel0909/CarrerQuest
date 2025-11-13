@@ -52,10 +52,10 @@ Criar uma experiência envolvente que una **autoconhecimento, aprendizado e gami
 ├── 📄 README.md → Documentação do projeto
 ├── 💬 agente.py → Implementação do agente usando Azure AI Agents para interação com usuários
 ├── 🧠 pdf.py → Código para gerar o PDF do plano de estudos
-├── 🖼️ exemplo/ → Capturas de tela do agente em execução
-│ ├── conversa_exemplo.pdf
-│ └── pdf_gerado.pdf
-└── 📚 referencias.txt → Links usados e fontes oficiais
+└── 🖼️ exemplo/ → Capturas de tela do agente em execução
+    ├── conversa_exemplo.pdf
+    └── pdf_gerado.pdf
+
 
 ---
 
