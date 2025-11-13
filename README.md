@@ -24,12 +24,12 @@ Criar uma experiência envolvente que una **autoconhecimento, aprendizado e gami
 ---
 
 ## 🧩 Estrutura do Agente
-
+'''
 **Nome:** `Agent-Career-Quest`  
 **Personalidade:** Mentora mágica, acolhedora e inspiradora  
 **Função principal:** Orientar o usuário na descoberta da carreira ideal em tecnologia e gerar um plano de estudos personalizado  
 **Tom:** Profissional, mas encantado e acolhedor  
-
+'''
 ---
 
 ## 🏗️ Tecnologias Utilizadas
@@ -49,12 +49,16 @@ Criar uma experiência envolvente que una **autoconhecimento, aprendizado e gami
 ---
 
 ## 🗂️ Estrutura do Projeto
+
+```plaintext
+Agent-Career-Quest/
 ├── 📄 README.md → Documentação do projeto
-├── 💬 agente.py → Implementação do agente usando Azure AI Agents para interação com usuários
+├── 💬 agente.py → Implementação do agente usando Azure AI Agents
 ├── 🧠 pdf.py → Código para gerar o PDF do plano de estudos
 └── 🖼️ exemplo/ → Capturas de tela do agente em execução
     ├── conversa_exemplo.pdf
     └── pdf_gerado.pdf
+```
 
 
 ---
